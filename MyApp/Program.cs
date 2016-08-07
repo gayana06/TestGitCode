@@ -6,7 +6,8 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello git");
+            Console.WriteLine("Hello");
+            Console.WriteLine("New line");
         }
     }
 }
