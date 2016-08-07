@@ -6,8 +6,9 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello change by ui");
             Console.WriteLine("New line");
+            Console.WriteLine("New line added by ui");
         }
     }
 }
