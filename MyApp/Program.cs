@@ -9,6 +9,7 @@ namespace MyApp
             Console.WriteLine("Hello change by ui fdf");
             Console.WriteLine("New line");
             Console.WriteLine("New line added by ui");
+            Console.WriteLine("added by feature2");
             Console.WriteLine("Added by feature 1");
         }
     }
