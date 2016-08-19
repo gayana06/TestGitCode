@@ -6,7 +6,7 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello change by ui fdf");
+            Console.WriteLine("Hello change by ui fdfjgjhgjhgh");
             Console.WriteLine("New line");
             Console.WriteLine("New line added by ui");
             Console.WriteLine("added by feature2 modifiedby feature2");         
